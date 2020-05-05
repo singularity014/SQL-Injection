@@ -1,5 +1,5 @@
 
-# @Ronit Ranjan(IIT-kgp), @Prafull Sharma(IBM Research), 2016
+@Prafull Sharma(IBM Research), 2016
 # Introduction
 SQL Injection is a technique which uses bad programming practices in a program to
 execute arbitrary SQL queries. SQL injection prevention techniques aim to eliminate or reduce
