@@ -13,6 +13,7 @@ The user input can come in many forms:
 * Request Payload
 * File Uploads
 
+
 Our solution uses the sql escape string function on each of these. If the escaped string is
 different from the real string, it might be an SQL injection string. To check this is true, the
 security layer looks for the request data as substrings of the SQL query. If there’s a match, the
